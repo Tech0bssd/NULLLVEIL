@@ -55,7 +55,7 @@ Core detection logic and risk modeling are being expanded and refined.
 
 ## 🌐 Live Access
 
-https://techObssd.github.io/NULLLVEIL/
+https://tech0bssd.github.io/NULLLVEIL/
 
 ---
 
